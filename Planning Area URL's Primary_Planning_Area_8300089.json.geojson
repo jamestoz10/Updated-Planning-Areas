@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Planning Area URL's Primary_Planning_Area_8300089",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "Name": "E01019815", "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>LSOA21CD</td><td>E01019815</td></tr><tr><td>LSOA21NM</td><td>North East Derbyshire 014C</td></tr><tr><td>LSOA21NMW</td><td> </td></tr><tr><td>BNG_E</td><td>444888</td></tr><tr><td>BNG_N</td><td>378039</td></tr><tr><td>LAT</td><td>53.297428</td></tr><tr><td>LONG</td><td>-1.32797</td></tr><tr><td>Shape__Area</td><td>3667932.003281</td></tr><tr><td>Shape__Length</td><td>10173.764491</td></tr><tr><td>GlobalID</td><td>{4E7CC107-A969-4EEE-B624-3DA45ABE48B2}</td></tr></table></body></html>", "timestamp": null, "begin": null, "end": null, "altitudeMode": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Planning Area URL's Primary_Planning_Area": 8300089 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.316702438447373, 53.281656914730803, 0.0 ], [ -1.322587632067184, 53.281375721072543, 0.0 ], [ -1.333634089371236, 53.289757606349063, 0.0 ], [ -1.34542970647123, 53.285786111444523, 0.0 ], [ -1.33820483221479, 53.296979656128158, 0.0 ], [ -1.339347391872321, 53.307835252283233, 0.0 ], [ -1.32189602279245, 53.309067156013683, 0.0 ], [ -1.310674945079947, 53.297948050437803, 0.0 ], [ -1.324140717562517, 53.295108657565777, 0.0 ], [ -1.316702438447373, 53.281656914730803, 0.0 ], [ -1.316702438447373, 53.281656914730803, 0.0 ] ] ] } }
+]
+}

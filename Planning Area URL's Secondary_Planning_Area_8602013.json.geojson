@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Planning Area URL's Secondary_Planning_Area_8602013",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "Name": "E01029423", "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>LSOA21CD</td><td>E01029423</td></tr><tr><td>LSOA21NM</td><td>East Staffordshire 001D</td></tr><tr><td>LSOA21NMW</td><td> </td></tr><tr><td>BNG_E</td><td>411224</td></tr><tr><td>BNG_N</td><td>340072</td></tr><tr><td>LAT</td><td>52.95792</td></tr><tr><td>LONG</td><td>-1.83436</td></tr><tr><td>Shape__Area</td><td>1447117.333984</td></tr><tr><td>Shape__Length</td><td>8896.000223</td></tr><tr><td>GlobalID</td><td>{4CB4285E-9AFE-4718-8A85-ACE0D048F0AD}</td></tr></table></body></html>", "timestamp": null, "begin": null, "end": null, "altitudeMode": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Planning Area URL's Secondary_Planning_Area": 8602013 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.829557676825081, 52.949914484492083, 0.0 ], [ -1.840756304765264, 52.948294707217883, 0.0 ], [ -1.847927351553578, 52.957491073767017, 0.0 ], [ -1.851231899891659, 52.951495988391677, 0.0 ], [ -1.858079054388366, 52.951674054107777, 0.0 ], [ -1.850147147942256, 52.954413376632957, 0.0 ], [ -1.85009378512455, 52.959087715001417, 0.0 ], [ -1.841233528702227, 52.956305680258907, 0.0 ], [ -1.834579467471019, 52.959762754911019, 0.0 ], [ -1.835049977971231, 52.965887524113711, 0.0 ], [ -1.828772684587085, 52.967547397835943, 0.0 ], [ -1.825545196861667, 52.961821902235862, 0.0 ], [ -1.834445941572098, 52.954772416941047, 0.0 ], [ -1.829557676825081, 52.949914484492083, 0.0 ], [ -1.829557676825081, 52.949914484492083, 0.0 ] ] ] } }
+]
+}

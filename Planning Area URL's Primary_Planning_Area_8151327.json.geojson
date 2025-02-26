@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Planning Area URL's Primary_Planning_Area_8151327",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "Name": "E01027702", "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>LSOA21CD</td><td>E01027702</td></tr><tr><td>LSOA21NM</td><td>Harrogate 006D</td></tr><tr><td>LSOA21NMW</td><td> </td></tr><tr><td>BNG_E</td><td>416053</td></tr><tr><td>BNG_N</td><td>465745</td></tr><tr><td>LAT</td><td>54.087379</td></tr><tr><td>LONG</td><td>-1.75609</td></tr><tr><td>Shape__Area</td><td>933618.475006</td></tr><tr><td>Shape__Length</td><td>3896.011629</td></tr><tr><td>GlobalID</td><td>{7577A1A8-3A95-424A-82C2-EC3F68ECDB9D}</td></tr></table></body></html>", "timestamp": null, "begin": null, "end": null, "altitudeMode": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Planning Area URL's Primary_Planning_Area": 8151327 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.757411160438203, 54.083535589834149, 0.0 ], [ -1.765144553366912, 54.089625653145681, 0.0 ], [ -1.757751498384981, 54.093104335047492, 0.0 ], [ -1.743342613353188, 54.086241938659967, 0.0 ], [ -1.749096308027576, 54.081647440033983, 0.0 ], [ -1.757411160438203, 54.083535589834149, 0.0 ], [ -1.757411160438203, 54.083535589834149, 0.0 ] ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Planning Area URL's Primary_Planning_Area_8810074",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "Name": "E01021446", "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>LSOA21CD</td><td>E01021446</td></tr><tr><td>LSOA21NM</td><td>Brentwood 009B</td></tr><tr><td>LSOA21NMW</td><td> </td></tr><tr><td>BNG_E</td><td>563616</td></tr><tr><td>BNG_N</td><td>189078</td></tr><tr><td>LAT</td><td>51.57682</td></tr><tr><td>LONG</td><td>0.359834</td></tr><tr><td>Shape__Area</td><td>7705688.35611</td></tr><tr><td>Shape__Length</td><td>14245.164833</td></tr><tr><td>GlobalID</td><td>{E77F350F-C511-4F29-9D4B-68941868608E}</td></tr></table></body></html>", "timestamp": null, "begin": null, "end": null, "altitudeMode": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Planning Area URL's Primary_Planning_Area": 8810074 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 0.382031327919709, 51.582084660312567, 0.0 ], [ 0.38260510955231, 51.565824123174998, 0.0 ], [ 0.343783653646505, 51.567821189875879, 0.0 ], [ 0.313008196338422, 51.565941937727708, 0.0 ], [ 0.310832203994067, 51.574838586505429, 0.0 ], [ 0.340979622529075, 51.579317881657467, 0.0 ], [ 0.348121748011001, 51.579787454039547, 0.0 ], [ 0.347079201825552, 51.583711684015249, 0.0 ], [ 0.374810095404682, 51.584282025639602, 0.0 ], [ 0.385628346417178, 51.588113229824742, 0.0 ], [ 0.382031327919709, 51.582084660312567, 0.0 ], [ 0.382031327919709, 51.582084660312567, 0.0 ] ] ] } }
+]
+}

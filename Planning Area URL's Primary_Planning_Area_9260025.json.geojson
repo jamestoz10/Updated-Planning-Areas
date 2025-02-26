@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Planning Area URL's Primary_Planning_Area_9260025",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "Name": "E01026895", "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>LSOA21CD</td><td>E01026895</td></tr><tr><td>LSOA21NM</td><td>South Norfolk 002D</td></tr><tr><td>LSOA21NMW</td><td> </td></tr><tr><td>BNG_E</td><td>613683</td></tr><tr><td>BNG_N</td><td>311050</td></tr><tr><td>LAT</td><td>52.655079</td></tr><tr><td>LONG</td><td>1.15785</td></tr><tr><td>Shape__Area</td><td>6452568.988983</td></tr><tr><td>Shape__Length</td><td>11811.013932</td></tr><tr><td>GlobalID</td><td>{DD0502BE-89E2-4B16-BD89-6B2D5B3671F1}</td></tr></table></body></html>", "timestamp": null, "begin": null, "end": null, "altitudeMode": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "Planning Area URL's Primary_Planning_Area": 9260025 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.173764073439802, 52.665165903925399, 0.0 ], [ 1.176531821829285, 52.659812525008107, 0.0 ], [ 1.172210757496718, 52.649843887632393, 0.0 ], [ 1.17741345462682, 52.640271424497961, 0.0 ], [ 1.174092394910743, 52.638225433092671, 0.0 ], [ 1.161177097632737, 52.644557999880377, 0.0 ], [ 1.150381189876254, 52.643415454093272, 0.0 ], [ 1.147273478249546, 52.640515371068368, 0.0 ], [ 1.136481120892181, 52.644763027692818, 0.0 ], [ 1.138184663102622, 52.65976658117291, 0.0 ], [ 1.14635491659443, 52.660031848818413, 0.0 ], [ 1.147296158174104, 52.671366233609078, 0.0 ], [ 1.163686930274399, 52.665209826006979, 0.0 ], [ 1.173764073439802, 52.665165903925399, 0.0 ], [ 1.173764073439802, 52.665165903925399, 0.0 ] ] ] } }
+]
+}
